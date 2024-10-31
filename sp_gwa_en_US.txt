@@ -1,0 +1,7 @@
+courtesy,Wordpress SalesPage Plugin<br>courtesy of 
+label1,Transaction ID#
+label2,Enter your transaction id or access code on the page at
+label3,Your purchase at 
+label4,<CENTER><h2>Thank You.</h2><h3>Pickup your purchase here.</h3>
+label5,Enter your Transaction ID from your sale receipt.<br />You will be forwarded to a page where you can pickup your purchase.
+label6,PICKUP

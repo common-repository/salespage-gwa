@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: [GWA] SalesPage v1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-04-16 19:04+0000\n"
+"Last-Translator: admin <pomspot@getwebactive.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: sp_gwa.php:172
+#: sp_gwa.php:561
+#@ gwasalespage
+msgid "Price:"
+msgstr "Prezzo:"
+
+#: sp_gwa.php:246
+#: sp_gwa.php:286
+#@ gwasalespage
+msgid "List"
+msgstr "Lista"
+
+#: sp_gwa.php:247
+#: sp_gwa.php:287
+#@ gwasalespage
+msgid "Product"
+msgstr "Prodotto"
+
+#: sp_gwa.php:248
+#: sp_gwa.php:288
+#@ gwasalespage
+msgid "Client"
+msgstr "Client"
+
+#: sp_gwa.php:249
+#: sp_gwa.php:289
+#@ gwasalespage
+msgid "Amount"
+msgstr "Importo"
+
+#: sp_gwa.php:252
+#: sp_gwa.php:292
+#@ gwasalespage
+msgid "DATE"
+msgstr "DATE"
+
+#: sp_gwa.php:276
+#@ gwasalespage
+msgid "Delete Checked"
+msgstr "Elimina Controllato"
+
+#: sp_gwa.php:276
+#: sp_gwa.php:308
+#@ gwasalespage
+msgid "Add New Client - Sale"
+msgstr "Aggiungi nuovo cliente - Vendita"
+
+#: sp_gwa.php:299
+#@ gwasalespage
+msgid "No Records"
+msgstr "Nessun record"
+
+#: sp_gwa.php:489
+#@ gwasalespage
+msgid "Enter your Paypal email address and the direct link to your product (http: or ftp:) and you are ready to begin accepting payments on your Weblog."
+msgstr "Inserisci il tuo indirizzo email PayPal e il link diretto al proprio prodotto (ftp http:o:) e si è pronti per iniziare ad accettare pagamenti sul tuo Weblog."
+
+#: sp_gwa.php:491
+#: sp_gwa.php:492
+#@ gwasalespage
+msgid "Click here"
+msgstr "Clicca qui"
+
+#: sp_gwa.php:491
+#@ gwasalespage
+msgid "to remove plugin branding."
+msgstr "per rimuovere il plugin di branding."
+
+#: sp_gwa.php:492
+#@ gwasalespage
+msgid "to support the author of this plugin and display plugin branding."
+msgstr "a sostenere l&#39;autore di questo plugin e visualizzare plugin branding."
+
+#: sp_gwa.php:492
+#: sp_gwa.php:493
+#@ gwasalespage
+msgid "Will open in a new window."
+msgstr "Viene aperto in una nuova finestra."
+
+#: sp_gwa.php:495
+#@ gwasalespage
+msgid "You may assign your Paypal Checkout Button to any page using the drop-down box below. You can have Express Purchase or Subscription Payment transaction buttons."
+msgstr "È possibile assegnare il tuo pagamento PayPal Button a qualsiasi pagina utilizzando la casella a discesa sottostante. Si può avere Express acquisto o di sottoscrizione pulsanti transazione di pagamento."
+
+#: sp_gwa.php:497
+#@ gwasalespage
+msgid "<p>Use this Wordpress Shortcode within your posts and pages to display your form: <strong>[gwa-salespage]</strong></p><p>This is the php tag you can insert directly in your template (or sidebar?)<br>"
+msgstr "<p> Utilizzare questo Shortcode Wordpress nei tuoi messaggi e le pagine per visualizzare il modulo: <strong>[GWA-salespage]</strong> </p><p> Questo è il tag PHP è possibile inserire direttamente nel tuo modello (o barra laterale?) <br>"
+
+#: sp_gwa.php:503
+#@ gwasalespage
+msgid "<p>You must have selected a page below and included either the &lt;PHP&gt; tag (in the template) or the Shortcode (in your page content) somewhere to display responses from the plugin.</p><p>You can view all sales records under <a style='font-weight:bold;text-decoration:none;' href='tools.php?page=salespage-gwa/sp_gwa.php'>Tools > SalesPage</a>. </p>"
+msgstr "<p> È necessario avere selezionato una pagina in basso e includono sia le tag &lt;PHP&gt; (nel modello) o la Shortcode (nel contenuto della pagina) in qualche luogo per visualizzare le risposte dal plugin. </p><p> È possibile visualizzare tutti i record di vendite in <a style='font-weight:bold;text-decoration:none;' href='tools.php?page=salespage-gwa/sp_gwa.php'>Strumenti&gt; salespage</a> . </p>"
+
+#: sp_gwa.php:505
+#@ gwasalespage
+msgid "Enter your Paypal Email Address for accepting payments here:"
+msgstr "Inserisci il tuo indirizzo email PayPal per accettare pagamenti qui:"
+
+#: sp_gwa.php:507
+#@ gwasalespage
+msgid "Direct Link to your Product (http:// ftp://):"
+msgstr "Link diretto per il tuo prodotto (http:// ftp://):"
+
+#: sp_gwa.php:510
+#@ gwasalespage
+msgid "Select the page on which you want to display your Paypal Checkout Button."
+msgstr "Selezionare la pagina in cui si desidera visualizzare il tuo pagamento PayPal Button."
+
+#: sp_gwa.php:510
+#@ gwasalespage
+msgid "Select any published page on your blog. MUST INCLUDE WP-SHORTCODE: <b>[gwa-salespage]</b>"
+msgstr "Seleziona una pagina pubblicata sul tuo blog. DEVE COMPRENDERE WP-shortcode: <b>[gwa-salespage]</b>"
+
+#: sp_gwa.php:519
+#@ gwasalespage
+msgid "Select a Paypal URL."
+msgstr "Selezionare un URL Paypal."
+
+#: sp_gwa.php:525
+#@ gwasalespage
+msgid "Default: "
+msgstr "Default:"
+
+#: sp_gwa.php:532
+#@ gwasalespage
+msgid "Sandbox: "
+msgstr "Sandbox:"
+
+#: sp_gwa.php:536
+#@ gwasalespage
+msgid "Select a Paypal Payment Type (Single/Recurring)"
+msgstr "Selezione di un tipo di pagamento Paypal (Single / ricorrenti)"
+
+#: sp_gwa.php:542
+#@ gwasalespage
+msgid "Single Express Purchase: "
+msgstr "Singolo acquisto Express:"
+
+#: sp_gwa.php:559
+#@ gwasalespage
+msgid "Product Name:"
+msgstr "Nome di prodotto:"
+
+#: sp_gwa.php:571
+#@ gwasalespage
+msgid "Product Description:"
+msgstr "Descrizione del prodotto:"
+
+#: sp_gwa.php:572
+#@ gwasalespage
+msgid "Confirmation Email: (Plain Text)"
+msgstr "Conferma Email: (Plain Text)"
+
+#: sp_gwa.php:572
+#@ gwasalespage
+msgid "Payment info will be added and a copy sent to your paypal email."
+msgstr "info pagamento verrà aggiunto e una copia inviata alla tua email paypal."
+
+#: sp_gwa.php:572
+#@ gwasalespage
+msgid "If you have private details like login information you can include it here."
+msgstr "Se si dispone di dati privati, come le informazioni di login si può includere qui."
+
+#: sp_gwa.php:572
+#@ gwasalespage
+msgid "A link to the Product Pickup Page (selected above) will be included in the message."
+msgstr "Il link alla pagina del prodotto Pickup (selezionato) sarà incluso nel messaggio."
+
+#: sp_gwa.php:573
+#@ gwasalespage
+msgid "Update Options"
+msgstr "Opzioni di aggiornamento"
+
+#: sp_gwa.php:504
+#@ gwasalespage
+msgid "Setup your Paypal Payment Info below."
+msgstr "Imposta il tuo Info Pagamento Paypal qui sotto."
+
+#: sp_gwa.php:543
+#@ gwasalespage
+msgid "Single Purchase - Paypal Payment Express."
+msgstr "Single Acquisto - Pagamento Paypal Express."
+
+#: sp_gwa.php:549
+#@ gwasalespage
+msgid "Recurring Subscription:"
+msgstr "Abbonamento ricorrenti:"
+
+#: sp_gwa.php:550
+#@ gwasalespage
+msgid "Monthly recurring charges and multiple sales records."
+msgstr "Spese condominiali mensili ricorrenti e più record di vendite."
+
+#: sp_gwa.php:557
+#@ gwasalespage
+msgid "Setup your Product below."
+msgstr "Imposta il tuo prodotto qui sotto."
+
